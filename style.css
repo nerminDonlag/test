@@ -20,6 +20,8 @@ ol li {
 }
 
 img {
+  display: block;
   height: auto;
   width: 20em;
+  margin: auto;
 }
