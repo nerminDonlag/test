@@ -1,0 +1,25 @@
+* {
+  color: red;
+}
+
+li {
+  color: purple;
+}
+
+.special {
+  color: orange;
+}
+
+li, p {
+  background-color: greenyellow;
+}
+
+ol li {
+  color: green;
+  text-align: center;
+}
+
+img {
+  height: auto;
+  width: 20em;
+}
